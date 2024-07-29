@@ -1,5 +1,5 @@
 - 🌱 Estudante de Engenharia de Software.
-- 💻 Desenvolvedor Full-Stack Junior.
+- 💻 Desenvolvedor Full-Stack Pleno.
 - 📫 E-mail de contato: lucasreisribeiro97@gmail.com
 
 <div>
